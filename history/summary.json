@@ -4,17 +4,19 @@
     "url": "https://www.kacperpilkowski.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.kacperpilkowski.com.ico",
     "slug": "about-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 134,
-    "timeWeek": 184,
-    "timeMonth": 175,
-    "timeYear": 217,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "79.37%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.94%",
+    "time": 209,
+    "timeDay": 639,
+    "timeWeek": 304,
+    "timeMonth": 206,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2025-10-29": 297
+    }
   }
 ]
